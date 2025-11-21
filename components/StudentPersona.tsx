@@ -27,6 +27,7 @@ const PersonaDesign = () => {
             <div className="w-32 h-32 bg-teal-100 rounded-full mx-auto mb-4 flex items-center justify-center overflow-hidden border-4 border-white shadow-md">
               {/* Placeholder for Avatar */}
               <img src="/teacherl.jpg" alt="" className='w-full h-full object-cover object-top'/>
+              
               {/* <User size={64} className="text-teal-600 "/> */}
             </div>
             
